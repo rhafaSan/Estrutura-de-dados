@@ -34,7 +34,7 @@ int fat2(int n){
     while (n != 0)
     {
         f *= n;
-        n--;
+        n--/
     }
     return f;
 }
